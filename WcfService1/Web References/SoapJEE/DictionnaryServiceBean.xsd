@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://facade.dicomgmt.bank.com/" targetNamespace="http://facade.dicomgmt.bank.com/" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="TryFindKeyOperation" type="tns:TryFindKeyOperation" />
+  <xs:element name="TryFindKeyOperationResponse" type="tns:TryFindKeyOperationResponse" />
+  <xs:complexType name="TryFindKeyOperation">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="keyValue" type="xs:string" />
+      <xs:element minOccurs="0" name="cryptedText" nillable="true" type="xs:base64Binary" />
+      <xs:element minOccurs="0" name="docNameValue" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="TryFindKeyOperationResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="acceptedKey" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

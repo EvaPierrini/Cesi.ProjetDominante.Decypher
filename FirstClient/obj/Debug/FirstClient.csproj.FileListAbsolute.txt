@@ -1,0 +1,13 @@
+D:\Projets_Visual_Studio\WcfService1\FirstClient\bin\Debug\FirstClient.exe.config
+D:\Projets_Visual_Studio\WcfService1\FirstClient\bin\Debug\FirstClient.exe
+D:\Projets_Visual_Studio\WcfService1\FirstClient\bin\Debug\FirstClient.pdb
+D:\Projets_Visual_Studio\WcfService1\FirstClient\obj\Debug\FirstClient.csprojAssemblyReference.cache
+D:\Projets_Visual_Studio\WcfService1\FirstClient\obj\Debug\FirstClient.csproj.CoreCompileInputs.cache
+D:\Projets_Visual_Studio\WcfService1\FirstClient\obj\Debug\FirstClient.exe
+D:\Projets_Visual_Studio\WcfService1\FirstClient\obj\Debug\FirstClient.pdb
+C:\Users\arnaud\Downloads\EXIA A4\WcfService1\FirstClient\bin\Debug\FirstClient.exe.config
+C:\Users\arnaud\Downloads\EXIA A4\WcfService1\FirstClient\bin\Debug\FirstClient.exe
+C:\Users\arnaud\Downloads\EXIA A4\WcfService1\FirstClient\bin\Debug\FirstClient.pdb
+C:\Users\arnaud\Downloads\EXIA A4\WcfService1\FirstClient\obj\Debug\FirstClient.csproj.CoreCompileInputs.cache
+C:\Users\arnaud\Downloads\EXIA A4\WcfService1\FirstClient\obj\Debug\FirstClient.exe
+C:\Users\arnaud\Downloads\EXIA A4\WcfService1\FirstClient\obj\Debug\FirstClient.pdb

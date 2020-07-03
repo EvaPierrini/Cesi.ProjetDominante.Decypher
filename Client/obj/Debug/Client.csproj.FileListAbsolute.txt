@@ -1,0 +1,2 @@
+D:\Projets_Visual_Studio\WcfService1\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\Projets_Visual_Studio\WcfService1\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
